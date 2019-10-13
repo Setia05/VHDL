@@ -3,7 +3,7 @@
 library IEEE;
 use IEEE.std_logic_1164.all;
 use IEEE.std_logic_arith.all;
-use IEEE.std_logic_unsigned.all;
+use IEEE.std_logic_unsigned.all; 
 
 
 -- Defining the input and output ports of the 8 bit adder
