@@ -1,7 +1,7 @@
 -- Code Description: Design Pairity Checker
 -- Coding Style: Structural Modelling
 -- Libray Declaration and exporting them in the code
-library IEEE;
+library IEEE; 
 use IEEE.std_logic_1164.all; -- Usage of multi-logic values
 use IEEE.std_logic_unsigned.all; -- Standard logic for unsigned bits
 
