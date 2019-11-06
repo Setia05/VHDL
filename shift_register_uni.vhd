@@ -1,5 +1,5 @@
 LIBRARY IEEE; 
-USE IEEE.STD_LOGIC_1164.ALL;
+USE IEEE.STD_LOGIC_1164.ALL; 
 
 entity shift_register_uni is
 port (clock, clear, sl_in, sr_in : in bit;
