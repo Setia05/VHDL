@@ -1,4 +1,4 @@
-library IEEE;
+library IEEE; 
 use IEEE.std_logic_1164.all; -- Usage of multi-logic values 
 use IEEE.std_logic_arith.all; -- Usage of arithematic operation
 use IEEE.std_logic_unsigned.all; -- Standard logic for unsigned bits
