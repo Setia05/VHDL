@@ -1,4 +1,4 @@
-LIBRARY IEEE; 
+LIBRARY IEEE;
 USE IEEE.STD_LOGIC_1164.ALL;
 
 entity shift_register_uni is
